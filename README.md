@@ -44,19 +44,13 @@ Aquí están las herramientas y tecnologías con las que trabajo:
 #### 1. 🚗 SIAT (Sistema de Información de Accidentes de Tránsito)
 *Web para registrar y visualizar accidentes de tránsito en Tuluá.*
 - **Tech:** React, Django, Google Maps API.
-- [cite_start]**Funcionalidad:** Mapa de calor y Clustering para identificar intersecciones peligrosas[cite: 10, 12, 14].
+- **Funcionalidad:** Mapa de calor y Clustering para identificar intersecciones peligrosas[cite: 10, 12, 14].
 - [🔗 Ver Repositorio](https://github.com/SIAT-UV)
 
 #### 2. 🏋️ STRONG - Gym App
 *Aplicación móvil para gestión de rutinas y seguimiento de desempeño.*
 - **Tech:** Flutter, Supabase.
-- [cite_start]**Funcionalidad:** Recomendación de rutinas basada en embeddings y análisis de datos del usuario[cite: 15, 17, 18].
+- **Funcionalidad:** Recomendación de rutinas basada en embeddings y análisis de datos del usuario[cite: 15, 17, 18].
 - [🔗 Ver Repositorio](https://github.com/RonaldoMunoz/strong_app)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoMunoz&show_icons=true&theme=radical" alt="Yeifer's Github Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoMunoz&layout=compact&theme=radical" alt="Top Langs" />
-</div>
