@@ -7,8 +7,7 @@
     Combino el desarrollo de software moderno con habilidades prácticas en infraestructura de redes.
   </p>
 
-  [Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=TU_LINK_DE_LINKEDIN) 
-  [Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeifer.munoz@correounivalle.edu.co)
+  [Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldomunozvalencia@gmail.com)
 </div>
 
 ---
@@ -16,7 +15,7 @@
 ### 🚀 Sobre mí
 
 - 🎓 **Educación:** Estudiante de 7º Semestre de Ingeniería de Sistemas en la Universidad del Valle.
-- 💼 **Emprendimiento:** Fundador de un **WISP** (Proveedor de Internet Inalámbrico) en Tuluá, gestionando infraestructura de red real.
+- 💼 **Emprendimiento:** Fundador de un **WISP** (Proveedor de Internet Inalámbrico), gestionando infraestructura de red real.
 - 🌱 **Actualmente aprendiendo:** Profundizando en **Java** y arquitecturas de software.
 - 👯 **Busco colaborar en:** Proyectos Open Source y desarrollo de aplicaciones móviles/web.
 - ⚡ **Dato curioso:** Configuro redes MikroTik/Ubiquiti y desarrollo apps en Flutter.
