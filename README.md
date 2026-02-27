@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 **Educación:** Estudiante de 7º Semestre de Ingeniería de Sistemas en la Universidad del Valle.
+- 🎓 **Educación:** Estudiante de 8º Semestre de Ingeniería de Sistemas en la Universidad del Valle.
 - 💼 **Emprendimiento:** Fundador de un **WISP** (Proveedor de Internet Inalámbrico), gestionando infraestructura de red real.
 - 🌱 **Actualmente aprendiendo:** Profundizando en **Java** y arquitecturas de software.
 - 👯 **Busco colaborar en:** Proyectos Open Source y desarrollo de aplicaciones móviles/web.
